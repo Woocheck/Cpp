@@ -1,0 +1,8 @@
+excercise
+Simple String template:
+
+works! // can store values - letters
+add method // or has operator+=
+compare method // or has operator==
+can be constructed from const char* and std::string
+has copy ctor
